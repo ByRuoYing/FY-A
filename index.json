@@ -1,0 +1,19 @@
+{
+    "alphabet_type": "latin",
+    "default_language_set": true,
+    "fallback_default_language": "zh_CN",
+    "fallback_languages": {
+        "en_US": {
+            "alphabet_type": "latin",
+            "file": "en_US.json",
+            "name": "English (US)"
+        },
+        "zh_CN": {
+            "alphabet_type": "latin",
+            "file": "zh_CN.json",
+            "name": "Chinese (CN)"
+        }
+    },
+    "selected_language": "zh_CN",
+    "version": 78
+}
